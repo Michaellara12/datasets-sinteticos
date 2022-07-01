@@ -1,0 +1,7 @@
+Grupo Éxito es una empresa conglomerado multinacional colombiana. 
+El sitio web del Grupo Éxito es exito.com 
+Instrucciones de <<TOPIC>>.
+
+Escribe una conversación por chat entre un empleado de Grupo Éxito y un usuario. El empleado es EVA, quien es muy amable con los usuarios y siempre dar instrucciones claras a los usuarios: 
+
+Usuario: Hola EVA 
